@@ -15,3 +15,4 @@ Interested in Front-End Engineering with SPA Frameworks (React, Vue)
 #### 📞 Contact
 [Email](mailto:mmmm@ajou.ac.kr)
 [Instagram](https://instagram.com/minseole)
+[Blog](https://morohaji.tistory.com)
