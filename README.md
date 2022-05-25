@@ -1,18 +1,16 @@
-Hi, I am Minseo Lee
+### Hi, I am Minseo Lee
 
 Interested in Front-End Engineering with SPA Frameworks (React, Vue)
 
-#### 📚 Education
-[KDMHS](https://dimigo.hs.kr/) major in hacking defense (graduate)
+Always try to think about 'WHY'
 
-[Ajou University](https://ajou.ac.kr/) Department of cyber security (sophomore, military leave)
+Currently belong to
 
-#### 🖥 Career
-[Humart Company](https://trost.co.kr/), Front-End Engineer (2020.12 ~ 2022.02)
+[Ajou University](https://ajou.ac.kr/) Department of cyber security
 
-[Megazone Cloud](https://www.megazone.com/), Front-End Engineer (2022.02 ~)
+[Megazone Cloud](https://www.megazone.com/), Front-End Engineer 
 
-#### 📞 Contact
+### 🐍
+
 [Email](mailto:mmmm@ajou.ac.kr)
-[Instagram](https://instagram.com/minseole)
 [Blog](https://morohaji.tistory.com)
