@@ -1,11 +1,3 @@
-### Hi, I am Minseo Lee
-
-Interested in Front-End Engineering with SPA Frameworks (React, Vue)
-
-Always try to think about 'WHY'
-
-Currently belong to
-
-[Ajou University](https://ajou.ac.kr/) Department of cyber security
-
-[Megazone Cloud](https://www.megazone.com/), Front-End Engineer 
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
+</p>
